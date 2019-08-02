@@ -15,7 +15,7 @@
 
 * `CLICKY-GAME` is built with `React.js`. Thus, the application is component based, able to keeps track of change events using `state`, and updates to the page render dynamically and without page refresh.
 
-## [PLAY CICKY-GAME](https://arcane-bayou-52504.herokuapp.com/) 
+## [PLAY CLICKY-GAME](https://powerful-journey-32256.herokuapp.com/) 
 
 
 
